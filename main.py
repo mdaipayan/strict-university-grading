@@ -178,7 +178,7 @@ with st.sidebar:
 
 st.markdown("""
 <div class="header-strip">
-  <h1>🎓 StrictUniversityGrading</h1>
+  <h1>🎓 Realative Grading Tool</h1>
   <p>Automated Relative Grading with Dual Statistical Protocols · IEEE Transactions on Education (2026)</p>
 </div>
 """, unsafe_allow_html=True)
