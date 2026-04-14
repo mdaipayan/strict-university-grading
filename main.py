@@ -35,7 +35,7 @@ from app.visualizations import (
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title  = "StrictUniversityGrading",
+    page_title  = "Realative Grading Tool",
     page_icon   = "🎓",
     layout      = "wide",
     initial_sidebar_state = "expanded",
