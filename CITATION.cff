@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the software."
+
+title: "StrictUniversityGrading"
+abstract: >
+  Companion software for the paper "Automated Relative Grading With Dual
+  Statistical Protocols: A Transparent, Rule-Based Framework for
+  Higher-Education Assessment" (IEEE Transactions on Education, 2026).
+  Implements a five-stage grading pipeline with Protocol A (Exclusive)
+  and Protocol B (Inclusive) reference population selection, moderation
+  rule, and minimum cutoff floor safeguard.
+
+authors:
+  - family-names: "Mandal"
+    given-names: "D."
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+version: "1.0.0"
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/dmandal/strict-university-grading"
+url: "https://github.com/dmandal/strict-university-grading"
+keywords:
+  - grading
+  - relative grading
+  - higher education
+  - assessment automation
+  - grade inflation
+  - statistical grading
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Mandal"
+      given-names: "D."
+  title: >
+    Automated Relative Grading With Dual Statistical Protocols:
+    A Transparent, Rule-Based Framework for Higher-Education Assessment
+  journal: "IEEE Transactions on Education"
+  year: 2026
+  doi: "10.1109/TE.2026.XXXXXXX"
